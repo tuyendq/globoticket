@@ -9,7 +9,6 @@ const styles = StyleSheet.create({
 
     logo: {
         height: 118,
-        borderBottomColor: '#ccc',
         borderBottomWidth: StyleSheet.hairlineWidth
     }
 
