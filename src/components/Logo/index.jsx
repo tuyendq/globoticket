@@ -8,7 +8,9 @@ const img = require('../../../assets/logo.png');
 const styles = StyleSheet.create({
 
     logo: {
-        height: 118,
+        marginTop: 20,
+        height: 100,
+        width: 150,
         borderBottomWidth: StyleSheet.hairlineWidth
     }
 
